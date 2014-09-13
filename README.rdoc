@@ -1,0 +1,1 @@
+A quick html and css project I whipped up to reflect the basic git class hosted by Girl Develop It.
